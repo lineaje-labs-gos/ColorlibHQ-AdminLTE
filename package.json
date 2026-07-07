@@ -1,8 +1,14 @@
 {
   "name": "admin-lte",
   "description": "Responsive open source admin dashboard and control panel.",
-  "version": "3.2.0",
+  "version": "3.2.0-lineaje-01",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "author": "Colorlib <https://colorlib.com>",
   "main": "dist/js/adminlte.min.js",
   "scripts": {
@@ -58,7 +64,7 @@
   "sass": "build/scss/adminlte.scss",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ColorlibHQ/AdminLTE.git"
+    "url": "https://github.com/lineaje-labs-gos/ColorlibHQ-AdminLTE"
   },
   "bugs": {
     "url": "https://github.com/ColorlibHQ/AdminLTE/issues"
